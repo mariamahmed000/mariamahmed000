@@ -22,14 +22,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Mariam Ahmed</a></b>
+                <b><a target="_blank" href="">Mariam Ahmed</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+<!--     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
     <br>
     「 I am a full stack web application and UI developer 」
     <br>
@@ -52,7 +52,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: mariam.memo445@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: mariam.ahmed66110@gmail.com<br/><br/>
  <!--💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)-->
 
 </p>
